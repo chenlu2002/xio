@@ -1,5 +1,5 @@
 mkdir /home/ubuntu/cysic-verifier1
 cp -r /home/ubuntu/cysic-verifier/* /home/ubuntu/cysic-verifier1/
-
+#biaoji
 cd /home/ubuntu/cysic-verifier1
 pm2 start start.sh --name cysic-verifier1
